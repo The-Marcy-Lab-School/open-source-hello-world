@@ -1,6 +1,6 @@
 # Hello WorLd
 
-This is an awesome javaScript program. That has two working functions.
+This is an awesome javaScript program. It has two working functions.
 
 ## helloWorld()
 
