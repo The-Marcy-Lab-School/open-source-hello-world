@@ -1,14 +1,14 @@
 # Hello WorLd
 
-This is an aw esome javaScript program that has like a bunch of cool functions and stuff. 
+This is an awesome javaScript program. That has two working functions.
 
 ## helloWorld()
 
-spits out the text 'Hello, World" to the console.
+It logs the text "Hello, World" to the console.
 
 ## helloName(name)
 
-takes a var and then it says "Hello, Ann" if name is "Ann".
+This takes a perameter and then it says "Hello, Ann" if name is equal to "Ann".
 
 ## Instrcutions
 
