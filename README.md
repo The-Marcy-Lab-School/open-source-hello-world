@@ -4,11 +4,11 @@ This is an awesome javaScript program. It has two working functions.
 
 ## helloWorld()
 
-It logs the text "Hello, World" to the console.
+This function logs the text "Hello, World" to the console.
 
 ## helloName(name)
 
-This takes a perameter and then it says "Hello, Ann" if name is equal to "Ann".
+This function takes a perameter and then it says "Hello, Ann" if name is equal to "Ann".
 
 ## Instrcutions
 
