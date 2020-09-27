@@ -7,5 +7,5 @@ function helloName(name){
 }
 
 //Tried to invoke both functions here but I get an error :(
-helloWorld()
-helloName("Ann")
+helloWorld();
+helloName("Ann");
