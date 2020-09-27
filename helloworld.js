@@ -7,7 +7,7 @@ function helloName(name){
 } // It seems you were missing the curly braces around 'name'. You were on the right track though! 
 
 // Tried to invoke both functions here but I get an error :(
-helloWorld()
-helloName("Ann") 
+helloWorld();
+helloName("Ann"); 
 // How are you invoking them? Perhaps check to see if you are in the right folder location in terminal. 
 // Otherwise it may be because of the errors I have now corrected. 
