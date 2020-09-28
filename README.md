@@ -10,7 +10,7 @@ spits out the text 'Hello, World" to the console.
 
 takes a variable and then it says "Hello, Ann" if name is "Ann". It essentially addes the given name after saying hello.
 
-## Instrcutions
+## Instructions
 
 1. fork this repositary.
 3. Clone your forked repo to your local machine with `git clone`.
