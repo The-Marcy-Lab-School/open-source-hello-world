@@ -1,4 +1,4 @@
-# Hello WorLd
+# Hello World
 
 This is an aw esome javaScript program that has like a bunch of cool functions and stuff. 
 
