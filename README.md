@@ -8,7 +8,11 @@ spits out the text 'Hello, World" to the console.
 
 ## helloName(name)
 
-takes a var and then it says "Hello, Ann" if name is "Ann".
+takes an argument of `name` and then greets the name. For example:
+```
+helloName("Ann") 
+// prints out "Hello, Ann"
+```
 
 ## Instrcutions
 
