@@ -3,7 +3,7 @@ function helloWorld(){
 }
 
 function helloName(name){
-  console.log(`Hello, $name`); //Idk why it prints out "Hello, $name" instead of "Hello, Ann"
+  console.log(`Hello, $name`); //Idk why it prints out "Hello, $name" instead of the actual parameter...
 }
 
 //Tried to invoke both functions here but I get an error :(
