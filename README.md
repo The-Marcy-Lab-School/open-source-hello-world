@@ -1,6 +1,6 @@
 # Hello WorLd
 
-This is an aw esome javaScript program that has lIke a bunch of cool functions and stuff. 
+This is an aw esome javaScript program that hAs a bunch of cool functions and stuff. 
 
 ## helloWorld()
 
