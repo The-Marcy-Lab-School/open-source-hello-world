@@ -19,3 +19,5 @@ helloName("Ann")
 1. forK this repositary.
 3. Clone your forked repo to ur local machine with `git clone`.
 4. In ur command line terminal, `cd` into the folder and run `node helloworld.js`.
+
+"Once cloned, make improvements to both the README.md and helloworld.js files."
